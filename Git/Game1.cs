@@ -10,6 +10,7 @@ namespace Git
         private SpriteBatch _spriteBatch;
         Texture2D _texture;
         int frame;
+        Texture2D background;
 
         public Game1()
         {
