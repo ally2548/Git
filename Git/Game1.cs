@@ -11,6 +11,8 @@ namespace Git
         Texture2D _texture;
         int frame;
         Texture2D background;
+        Texture2D player;
+        Texture3D player2;
 
         public Game1()
         {
