@@ -13,6 +13,7 @@ namespace Git
         Texture2D background;
         Texture2D player;
         Texture3D player2;
+        Texture2D color;
 
         public Game1()
         {
